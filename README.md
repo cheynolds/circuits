@@ -1,2 +1,2 @@
 # circuits
-a collection of artful, useful or noteworthy circuits built in tinkercad, multisim
+a collection of artful, useful or noteworthy circuits with associated code sketches
