@@ -6,3 +6,4 @@
 [Tinker Circuit](https://www.tinkercad.com/things/lf4HWkpHD9Z?sharecode=MczDEamFxgdOYM-y2SybLgYy-U4jU8uW01_UAQbgzGo)
 ![LAB_2022_arduino_pot_servoDriver](https://user-images.githubusercontent.com/58918656/177001746-8c81d1d1-daeb-4675-8394-65faeae227f3.png | width = 250)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
